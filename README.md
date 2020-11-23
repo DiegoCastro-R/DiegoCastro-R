@@ -1,3 +1,4 @@
+![Cover](https://i.ibb.co/tcNcN3B/Linked-In-Banner.png)
 ### Hello, you 👋
 - 🔭 I’m currently working on Accenture Technology
 - 🌱 I’m currently learning JavaScript 
