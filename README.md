@@ -1,6 +1,6 @@
 ![Cover](https://i.ibb.co/tcNcN3B/Linked-In-Banner.png)
 ### Hello, you 👋
-- 🔭 I’m currently working on Accenture Technology
+- 🔭 I’m currently working on Growti Solutions
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Blockchain, and Crypto.
 - 📫 How to reach me: Find me on LinkedIn: t.ly/Ma1B
