@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Python
 - ⚡ I’m currently specializing in Typescript
 - 👯 I’m looking to collaborate on Blockchain, and Crypto.
-- 📫 How to reach me: Find me on LinkedIn: https://www.linkedin.com/in/diegocastro-r- ⚡ Fun fact: I really like music,and tea 😄
+- 📫 How to reach me: Find me on LinkedIn: https://www.linkedin.com/in/diegocastro-r- 
+- 😄 Fun fact: I really like music,tea and Pugs
 <!--
 **DiegoCastro-R/DiegoCastro-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
