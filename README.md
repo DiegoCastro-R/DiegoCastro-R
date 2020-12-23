@@ -11,7 +11,8 @@
 Here are some ideas to get you started:
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="diegocastro-r"><a class="LI-simple-link" href='https://br.linkedin.com/in/diegocastro-r?trk=profile-badge'>Diego Rodrigues</a></div>
 - 🔭 I’m currently working on Accenture Technology
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python
+- ⚡ I’m currently specializing in Typescript
 - 👯 I’m looking to collaborate on Blockchain, and Crypto.
 - 📫 How to reach me: Find me on LinkedIn: https://www.linkedin.com/in/diegocastro-r
 - ⚡ Fun fact: I really like music,and tea 😄
