@@ -1,20 +1,9 @@
 ![Cover](https://i.ibb.co/tcNcN3B/Linked-In-Banner.png)
 ### Hello, you 👋
-- 🔭 I’m currently working on Growti Solutions
+- 🔭 I’m currently working on Typescript/React/Node Projects
 - 🌱 I’m currently learning Python
 - ⚡ I’m currently specializing in Typescript
 - 👯 I’m looking to collaborate on Blockchain, and Crypto.
 - 📫 How to reach me: Find me on LinkedIn: https://www.linkedin.com/in/diegocastro-r- 
 - 😄 Fun fact: I really like music,tea and Pugs
 <!--
-**DiegoCastro-R/DiegoCastro-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="diegocastro-r"><a class="LI-simple-link" href='https://br.linkedin.com/in/diegocastro-r?trk=profile-badge'>Diego Rodrigues</a></div>
-- 🔭 I’m currently working on Growti Solutions
-- 🌱 I’m currently learning Python
-- ⚡ I’m currently specializing in Typescript
-- 👯 I’m looking to collaborate on Blockchain, and Crypto.
-- 📫 How to reach me: Find me on LinkedIn: https://www.linkedin.com/in/diegocastro-r
-- ⚡ Fun fact: I really like music,and tea 😄
--->
