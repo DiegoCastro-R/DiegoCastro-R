@@ -12,6 +12,18 @@
 - 😄 Fun fact: I really like music,tea and Pugs
 
 ### Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoCastro-R&show_icons=true&theme=dark"/>
+<igm src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastro-R&layout=compact&theme=dark"/>
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DiegoCastro-R&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastro-R&layout=compact&theme=dark&repo=nativemarket)
+### Get in Touch:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegocastro-r/"><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" height="60px"/></a> &nbsp &nbsp &nbsp
+  <a href="https://discordapp.com/users/496067946829971467/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1.png" height="60px"/></a>
+  &nbsp &nbsp
+  <a href="mailto:diego.rodrigues@growtisolutions.com"><img src="https://img.icons8.com/cotton/2x/open-envelope--v1.png" height="60px"/></a>
+
+  
+</p>
