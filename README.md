@@ -13,8 +13,8 @@
 
 ### Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoCastro-R&show_icons=true&theme=dark"/>
-<igm src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastro-R&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoCastro-R&show_icons=true&theme=dark" alt="GitHub Stats/>
+<igm src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastro-R&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ### Get in Touch:
