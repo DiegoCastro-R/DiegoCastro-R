@@ -1,4 +1,4 @@
-![Cover](https://i.ibb.co/tcNcN3B/Linked-In-Banner.png)
+![Cover](https://media-exp1.licdn.com/dms/image/C4D16AQHvuFIrigy2jw/profile-displaybackgroundimage-shrink_200_800/0/1618612422695?e=1623888000&v=beta&t=QooaaK2VFgctXYIqhdjZJhOl1YGen7Qd7wVNzXp-ggo)
 ### Hello, you 👋
 - 🔭 I’m currently working on Typescript/React/Node Projects
 - 🌱 I’m currently learning Elxir
