@@ -9,5 +9,5 @@
 
 ### Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=diegocastro-r&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastro-r&layout=compact&theme=dark&repo=nativemarket)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DiegCastro-R&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCastro-R&layout=compact&theme=dark&repo=nativemarket)
