@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQG-x02XKmtiiQ/profile-displaybackgroundimage-shrink_350_1400/0/1618612559034?e=1623888000&v=beta&t=uoUl7SP2c-qBKpBT8zMBo8llJVi05NjgMa2yyQj3Gv8" alt="Growti Solutions Cover"/>
 </p>
+
+
 ### Hello, you 👋
 - 🔭 I’m currently working on Typescript/React/Node Projects
 - 🌱 I’m currently learning Elxir
