@@ -23,11 +23,5 @@
 
 ### Get in Touch:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diegocastro-r/"><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" height="60px"/></a> &nbsp &nbsp &nbsp
-  <a href="https://discordapp.com/users/496067946829971467/"><img src="https://www.freeiconspng.com/uploads/discord-icon-7.png" height="60px"/></a>
-  &nbsp &nbsp
-  <a href="mailto:diego.rodrigues@growtisolutions.com"><img src="https://www.freeiconspng.com/uploads/email-icon--flat-gradient-social-iconset--limav-6.png" height="60px"/></a>
-
-  
-</p>
+Email: diego.rodrigues@growtisolutions.com
+LinkedIn: https://www.linkedin.com/in/diegocastro-r/
