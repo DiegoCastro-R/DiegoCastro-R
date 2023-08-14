@@ -28,5 +28,5 @@
 
 ### Get in Touch:
 
-- [Email](mailto:diego.rodrigues@growtisolutions.com)
+
 - [LinkedIn](https://www.linkedin.com/in/diegocastro-r)
