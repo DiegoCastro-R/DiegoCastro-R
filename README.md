@@ -20,12 +20,6 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 </p>
 
-### Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCastro-R&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
 ### Get in Touch:
 
 
