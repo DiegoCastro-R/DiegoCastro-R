@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
@@ -6,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=graphql" alt="GraphQL">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
@@ -20,7 +21,17 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 </p>
 
-### Get in Touch:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastro-r&layout=donut&theme=transparent" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegocastro-r&show_icons=true&theme=transparent" alt="Diego's GitHub stats">
+</p>
 
+<div align="center" >
 
-- [LinkedIn](https://www.linkedin.com/in/diegocastro-r)
+  <h3>Get in Touch:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/diegocastro-r" style="margin-right: 10px;">LinkedIn</a>
+    <a href="mailto:diegocastro_r@yahoo.com">E-Mail</a>
+  </p>
+    
+</div>
