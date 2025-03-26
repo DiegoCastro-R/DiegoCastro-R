@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastro-r&layout=donut&theme=transparent" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegocastro-r&show_icons=true&theme=transparent" alt="Diego's GitHub stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=diegocastro-r&show_icons=true&theme=transparent" alt="Diego's GitHub stats"> -->
 </p>
 
 <div align="center" >
